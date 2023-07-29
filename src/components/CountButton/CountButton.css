@@ -1,0 +1,12 @@
+.outer-div:nth-child(2n){
+    background-color: palegreen;
+}
+
+.outer-div:nth-child(2n+1){
+    background-color: cyan;
+}
+
+.outer-div div{
+    font-weight: bold;
+}
+

@@ -1,0 +1,18 @@
+.container img{
+    height:4rem;
+    width: 4rem;
+    margin-right: 1rem;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    /* border: 2px solid black; */
+    margin-bottom: 1rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-style: italic;
+}
